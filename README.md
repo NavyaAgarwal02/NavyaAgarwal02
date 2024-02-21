@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya Agarwal</h1>
 <h3 align="center">Passionate about Coding and changing the World!!!</h3>
 
-<img align="right" alt="coding" width="400" src="[pexels-christina-morillo-1181637](https://www.pexels.com/photo/person-typing-on-corded-computer-keyboard-beside-apple-mighty-mouse-1181637/)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navya-27-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="navya-27-agarwal" /> </p>
 

@@ -1,12 +1,10 @@
-
-
 <h1 align="center">Hi 👋, I'm Navya Agarwal</h1>
 <h3 align="center">Passionate about Coding and changing the World!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navya-27-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="navya-27-agarwal" /> </p>
 
 # 💫 About Me:
-👩🏽‍💻 I'm currently a student majoring in computer science.<br><br>🛠️ I'm looking to collaborate on **coding**, **web development** projects.<br><br>📘 I'm currently learning **programming**. <br> <br>🔭 I’m currently working on [Web Development Projects](github.com/Navya-27-Agarwal).<br><br>📫 How to reach me: **27agarwalnavya@gmail.com**.<br><br>🔎 Ask me anything.
+--👩🏽‍💻 I'm currently a student majoring in computer science.<br><br>--🛠️ I'm looking to collaborate on **coding**, **web development** projects.<br><br>--📘 I'm currently learning **programming**. <br> <br>--🔭 I’m currently working on [Web Development Projects](github.com/Navya-27-Agarwal).<br><br>--📫 How to reach me **27agarwalnavya@gmail.com**.<br><br>--🔎 Ask me anything.
 
 ## 🌐 Socials:
 

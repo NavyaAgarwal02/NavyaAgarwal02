@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Agarwal</h1>
-<h3 align="center">Passionate about Coding and changing the World!!!</h3>
+<h3 align="center">Lifelong Learner | Building the Future with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navya-27-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="navya-27-agarwal" /> </p>
 

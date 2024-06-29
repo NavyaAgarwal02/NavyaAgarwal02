@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Navya 👋</h1>
+<h1 align="center">Hello, I'm Navya Agarwal👋</h1>
 <h3 align="center">A passionate Programmer & Backend Developer</h3>
 
 [![Github](https://img.shields.io/github/followers/Prince-1501?label=Follow&style=social)](https://github.com/NavyaAgarwal02)

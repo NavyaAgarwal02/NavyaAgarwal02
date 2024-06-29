@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Navya Agarwal</h1>
+<h1 align="center">Hi, I'm Navya 👋</h1>
 <h3 align="center">Lifelong Learner | Building the Future with Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navya-27-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="navya-27-agarwal" /> </p>
+[![Github](https://img.shields.io/github/followers/Prince-1501?label=Follow&style=social)](https://github.com/NavyaAgarwal02)
+![Profile Count](https://komarev.com/ghpvc/?username=NavyaAgarwal02)  
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/inavyaagarwal/)
 
 # 💫 About Me:
 --👩🏽‍💻 I'm currently a student majoring in computer science.<br><br>--🛠️ I'm looking to collaborate on **coding**, **web development** projects.<br><br>--📘 I'm currently learning **programming**. <br> <br>--🔭 I’m currently working on [Web Development Projects](github.com/Navya-27-Agarwal).<br><br>--📫 How to reach me **27agarwalnavya@gmail.com**.<br><br>--🔎 Ask me anything.

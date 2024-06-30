@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Navya Agarwal👋</h1>
-<h3 align="center">A passionate Programmer & Backend Developer</h3>
+<h1>Hello, I'm Navya Agarwal👋</h1>
+<h3>A passionate Programmer & Backend Developer</h3>
 
 [![Github](https://img.shields.io/github/followers/Prince-1501?label=Follow&style=social)](https://github.com/NavyaAgarwal02)
 ![Profile Count](https://komarev.com/ghpvc/?username=NavyaAgarwal02)  [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/inavyaagarwal/)
